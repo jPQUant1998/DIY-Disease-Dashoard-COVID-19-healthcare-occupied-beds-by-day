@@ -7,3 +7,5 @@ Click here to launch this repository as a Binder: [![Binder](https://mybinder.or
 Click [here](https://mybinder.org/v2/gh/fsmeraldi/diy-covid19dash/main?urlpath=%2Fvoila%2Frender%2FDashboard.ipynb) to render the dashboard template (```Dasboard.ipynb```) with Voila; this is where you will assemble your dashboard after going through the other notebooks.
 
 **(C) 2020,2024 Fabrizio Smeraldi** ([f.smeraldi@qmul.ac.uk](mailto:f.smeraldi@qmul.ac.uk) - [web](http://www.eecs.qmul.ac.uk/~fabri/)). This repository is released under the [GNU GPLv3.0 or later](https://www.gnu.org/licenses/).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jPQUant1998/DIY-Disease-Dashoard-COVID-19-healthcare-occupied-beds-by-day.git/HEAD)
